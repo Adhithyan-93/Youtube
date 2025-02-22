@@ -1,2 +1,2 @@
 let a = "adhithyan"
-console.log (a. toUpperCase())
+console.log (a.toUpperCase())
